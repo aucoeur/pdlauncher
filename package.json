@@ -1,0 +1,26 @@
+{
+  "name": "pdlauncher",
+  "version": "0.1.5",
+  "description": "launches peardeck in-browser via terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "pdlauncher": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aucoeur/pdlauncher.git"
+  },
+  "author": "Aucoeur Ngo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aucoeur/pdlauncher/issues"
+  },
+  "homepage": "https://github.com/aucoeur/pdlauncher#readme",
+  "dependencies": {
+    "is-meme-number": "^1.0.1",
+    "open": "^7.3.0"
+  }
+}
