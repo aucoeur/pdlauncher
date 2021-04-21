@@ -20,4 +20,4 @@ You can use `pdlauncher` with or without a join code
 
 ## Test Locally
 - Link, `npm link`
-- Unlink:  `npm unlink -g pdlaunche`
+- Unlink:  `npm unlink -g pdlauncher`

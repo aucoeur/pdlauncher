@@ -22,3 +22,4 @@ test(`valid join code`, () => {
 // test(`main will return something`, () => {
 //   expect(main()).toBe(`${joinCode} is not a valid code`)
 // })
+// comment out main() or current tests will fail
