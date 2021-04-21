@@ -3,11 +3,11 @@
   "version": "0.1.8",
   "description": "launches peardeck in-browser via terminal",
   "main": "index.js",
-  "scripts": {
-    "test": "jest"
-  },
   "bin": {
     "pdlauncher": "index.js"
+  },
+  "scripts": {
+    "test": "jest"
   },
   "repository": {
     "type": "git",
