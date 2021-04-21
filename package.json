@@ -1,6 +1,6 @@
 {
   "name": "pdlauncher",
-  "version": "0.1.8",
+  "version": "0.2.0",
   "description": "launches peardeck in-browser via terminal",
   "main": "index.js",
   "bin": {
